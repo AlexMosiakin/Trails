@@ -1,7 +1,6 @@
 import * as THREE from "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js";
-
-import fragment from "./shaders/fragment.glsl";
-import vertex from "./shaders/vertex.glsl";
+import fragment from "https://github.com/AlexMosiakin/Trails/tree/gh-pages/shaders/fragment.glsl";
+import vertex from "https://github.com/AlexMosiakin/Trails/tree/gh-pages/shaders/vertex.glsl";
 import * as dat from "https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.7/dat.gui.min.js";
 
 import { TimelineMax } from "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js";
